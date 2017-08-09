@@ -1,5 +1,5 @@
 ---
-title: "Make Survey"
+title: "How do I make a survey"
 description: "Making surveys"
 hero: "Create a pol.is survey in a few easy steps and learn what your community thinks and feels."
 ---

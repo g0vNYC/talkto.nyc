@@ -1,5 +1,5 @@
 ---
-title: "About Pol.is"
+title: "What is Pol.is?"
 description: "Pol.is gathers organic, authentic feedback while retaining minority opinions."
 hero: 'Pol.is is an AI powered surveying tool that has been used to great success in countries like Taiwan and Denmark.'
 ---

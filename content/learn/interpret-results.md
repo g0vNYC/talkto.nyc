@@ -1,5 +1,5 @@
 ---
-title: "Understanding Pol.is results"
+title: "How do I understand the results?"
 description: "Understand how to read and interpret your Pol.is survey results."
 hero: "Understanding your Pol.is results"
 hero_byline: "Interpreting majority and group opinion to get the most of your survey."
