@@ -1,7 +1,7 @@
 ---
 title: "Contact"
 description: "Privacy notices description"
-featured_image: ''
+hero: "About Hero image"
 ---
 
 # Contact

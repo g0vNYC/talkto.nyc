@@ -1,12 +1,8 @@
 ---
 title: "Make Survey"
 description: "Making surveys"
-featured_image: ''
+hero: "Create a pol.is survey in a few easy steps and learn what your community thinks and feels."
 ---
-
-# Get started on making your own survey
-
-## Create a pol.is survey in a few easy steps and learn what your community thinks and feels.
 
 1. [Create a free account](https://pol.is/createuser)
   * if you see 'bad request' while creating an account, please choose a longer password

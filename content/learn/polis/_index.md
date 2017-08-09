@@ -1,7 +1,7 @@
 ---
 title: "About Pol.is"
 description: "Pol.is gathers organic, authentic feedback while retaining minority opinions."
-featured_image: ''
+hero: 'Pol.is is an AI powered surveying tool that has been used to great success in countries like Taiwan and Denmark.'
 ---
 Pol.is is an AI powered surveying tool that has been used to great success in countries like Taiwan and Denmark. It is easy to use and can obtain the sorts of rich, organic data that is usually obtained through community forums or interviews.
 

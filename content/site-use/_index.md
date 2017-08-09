@@ -1,10 +1,9 @@
 ---
 title: "Site Use Guidelines"
 description: "Site Use Guidelines"
-featured_image: ''
+hero: "Hi, Our site use guidelines aren't here to confine you."
+hero_byline: "But we do have a few to make sure it all stays copacetic."
 ---
-
-# SITE USE GUIDELINES
 
 By registering as a pol.is user, you agree that
 1. You are responsible for whatever you post

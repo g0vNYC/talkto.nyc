@@ -1,10 +1,8 @@
 ---
 title: "Privacy"
 description: "Privacy notices description"
-featured_image: ''
+hero: "Your privacy and data matter to us."
 ---
-
-# PRIVACY NOTICES
 
 ## Data Privacy
 
