@@ -39,31 +39,51 @@ enableRobotsTXT = true
     identifier = "make"
     url = "/survey/make"
 [[menu.primary]]
+    name = "Learn"
+    weight = 3
+    identifier = "learn"
+    url = "/learn/"
+[[menu.primary]]
+    name = "Results"
+    weight = 3
+    identifier = "results"
+    url = "/results/"
+[[menu.primary]]
     name = "About"
     weight = 4
     identifier = "about"
     url = "/about/"
-[[menu.primary]]
-    name = "Contact"
-    weight = 5
-    url = "/contact/"
+
 
 # Learn menu in the footer
 [[menu.learn]]
     name = "How to interpret results?"
-    weight = 1
+    weight = 2
     identifier = "learn-results"
     url = "/learn/interpret-results"
 [[menu.learn]]
     name = "What is Pol.is?"
-    weight = 2
+    weight = 1
     identifier = "learn-polis"
     url = "/learn/polis"
-[[menu.learn]]
-    name = "How to take a survey?"
+
+
+# Survey menu
+[[menu.survey]]
+    name = "Take"
+    weight = 1
+    identifier = "learn-results"
+    url = "/survey"
+[[menu.survey]]
+    name = "Make"
+    weight = 2
+    identifier = "learn-polis"
+    url = "/learn/make-survey"
+[[menu.survey]]
+    name = "Candidate Forums"
     weight = 3
     identifier = "learn-take"
-    url = "/learn/take-survey"
+    url = "/survey"
 
 
 [[menu.privacy]]
@@ -75,3 +95,7 @@ enableRobotsTXT = true
     name = "Site Use Guidelines"
     weight = 5
     url = "/site-use/"
+[[menu.privacy]]
+    name = "Contact"
+    weight = 5
+    url = "/contact/"
