@@ -32,12 +32,12 @@ enableRobotsTXT = true
     name = "Take a Survey"
     weight = 1
     identifier = "take"
-    url = "/survey/take"
+    url = "/learn/take-survey"
 [[menu.primary]]
     name = "Make a Survey"
     weight = 2
     identifier = "make"
-    url = "/survey/make"
+    url = "/learn/make-survey"
 [[menu.primary]]
     name = "Learn"
     weight = 3
