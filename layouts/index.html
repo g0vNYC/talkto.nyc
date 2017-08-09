@@ -1,40 +1,21 @@
 {{ define "main" }}
-  <section class="mw8 center cf ph2-ns">
-    <ul class="list">
-      <li class="fl w-100 w-25-ns pa4">
-        <div class="aspect-ratio aspect-ratio--16x9 mb2 center">
-          <div class="aspect-ratio--object " style="background:url(/icons/icon-crowdsourcing.svg) center no-repeat;"></div>
-        </div>
-
-        <p>Crowdsourcing to inform NYC governance</p>
-      </li>
-      <li class="fl w-100 w-25-ns pa4">
-        <div class="aspect-ratio aspect-ratio--16x9 mb2 center">
-          <div class="aspect-ratio--object " style="background:url(/icons/icon-participating.svg) center no-repeat;"></div>
-        </div>
-
-        <p>Reducing the burden of participation and increasing effectiveness</p>
-      </li>
-      <li class="fl w-100 w-25-ns pa4">
-        <div class="aspect-ratio aspect-ratio--16x9 mb2 center">
-          <div class="aspect-ratio--object " style="background:url(/icons/icon-connecting.svg) center no-repeat;"></div>
-        </div>
-
-        <p>Connecting organizations and districts around shared concerns.</p>
-      </li>
-      <li class="fl w-100 w-25-ns pa4">
-        <div class="aspect-ratio aspect-ratio--16x9 mb2 center">
-          <div class="aspect-ratio--object " style="background:url(/icons/icon-open-data.svg) center no-repeat;"></div>
-        </div>
-
-        <p>Open knowledge, data, and tools.</p>
-      </li>
+  <section class="cf ph2-ns bg-washed-green">
+    <ul class="list pa0 ma0 flex flex-wrap-m mw9 center">
+      {{ range .Site.Data.HomeOverview.Overview }}
+        {{ $icon := .Icon }}
+        <li class="flex flex-column pv4 ph2 tc w-50-ns">
+          <div class="mb3 center w4-ns h4 pa3">
+            <img src="{{ $icon }}">
+          </div>
+          <p class="measure-narrow center ph2 self-end">{{ .Text }}</p>
+        </li>
+      {{ end }}
     </ul>
   </section>
 
   <article>
-    <header class="mw7 mv5 center tc-ns ph3 mb4">
-      <h1>
+    <header class="mw7 mt6 mb5 center tc-ns ph3 mb4">
+      <h1 class="f1-l">
         <span>Be heard this election.</span>
         Contribute your opinions in a meaningful way.
       </h1>
