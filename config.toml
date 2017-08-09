@@ -16,7 +16,7 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
-  hero = "A platform to forge stronger connections between NYC citizens and city decision makers."
+  hero = "It's time to forge stronger connections between NYC citizens and city decision makers."
   description = "Talk to NYC is working to introduce tools that will forge a stronger connection between NYC citizens and city decision makers."
   facebook = ""
   twitter = "https://twitter.com/TalktoNYC"
