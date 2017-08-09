@@ -95,7 +95,3 @@ enableRobotsTXT = true
     name = "Site Use Guidelines"
     weight = 5
     url = "/site-use/"
-[[menu.privacy]]
-    name = "Contact"
-    weight = 5
-    url = "/contact/"

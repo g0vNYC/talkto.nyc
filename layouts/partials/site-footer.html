@@ -1,16 +1,27 @@
-<footer class="flex flex-wrap flex-row-m bg-near-black bottom-0 w-100 fw4" role="contentinfo">
-  <div class="flex flex-column flex-auto-l mh4">
-    <h4 class="white-90">Connect with Us</h4>
-    {{ partial "social-follow.html" . }}
+<footer class="flex flex-wrap flex-row-m justify-end  bg-white bt b--black-10 bottom-0 w-100 fw4" role="contentinfo">
+  <div class="flex flex-column mw6 br b--black-10">
+    <div class="ph4">
+      <h4 class="green fw4">Connect with Us</h4>
+      {{ partial "social-follow.html" . }}
+    </div>
+
+    <div class="bt b--black-10 pt3 pb2 ph4 mt3">
+      <p class="f6">If you have any questions about Talk to
+      NYC or our larger project: Contact us at hi[at]talkto.nyc</p>
+
+      <p class="f6">If you have any questions/concerns/
+      complaints regarding pol.is: Contact us at
+      polis[at]talkto.nyc</p>
+    </div>
   </div>
 
-  <div class="mh3 mh4-m">
-    <h4 class="white-90">Survey</h4>
+  <div class="flex-auto mh4 mh5-m">
+    <h4 class="green fw4">Survey</h4>
     {{ if .Site.Menus.learn }}
       <ul class="pa0">
         {{ range .Site.Menus.survey }}
         <li class="list f5 pb3">
-          <a class="hover-white no-underline white-90" href="{{ .URL }}" title="{{ .Name }} page">
+          <a class="hover-green no-underline light-green" href="{{ .URL }}" title="{{ .Name }} page">
             {{ .Name }}
           </a>
         </li>
@@ -19,13 +30,13 @@
     {{ end }}
   </div>
 
-  <div class="mh3 mh4-m">
-    <h4 class="white-90">Learn</h4>
+  <div class="flex-auto mh4 mh5-m">
+    <h4 class="green fw4">Learn</h4>
     {{ if .Site.Menus.learn }}
       <ul class="pa0">
         {{ range .Site.Menus.learn }}
         <li class="list f5 pb3">
-          <a class="hover-white no-underline white-90" href="{{ .URL }}" title="{{ .Name }} page">
+          <a class="hover-green no-underline light-green" href="{{ .URL }}" title="{{ .Name }} page">
             {{ .Name }}
           </a>
         </li>
@@ -34,13 +45,13 @@
     {{ end }}
   </div>
 
-  <div class="mh3 mh4-m">
-    <h4 class="white-90">About</h4>
+  <div class="flex-auto mh4 mh5-m">
+    <h4 class="green fw4">About</h4>
     {{ if .Site.Menus.privacy }}
       <ul class="pa0">
         {{ range .Site.Menus.privacy }}
         <li class="list f5 pb3">
-          <a class="hover-white no-underline white-90" href="{{ .URL }}" title="{{ .Name }} page">
+          <a class="hover-green no-underline light-green" href="{{ .URL }}" title="{{ .Name }} page">
             {{ .Name }}
           </a>
         </li>
@@ -48,8 +59,8 @@
       </ul>
     {{ end }}
   </div>
-  <p class="f6 white-90 fw4 w-100 pt3 pb3 pl3 pl4-ns bt">
-    <a class="white-90 hover-white no-underline" href="{{ .Site.BaseURL }}" >
+  <p class="bt b--black-10 f6 fw4 w-100 pt3 pb3 pl3 pl4-ns">
+    <a class="light-green hover-green no-underline" href="{{ .Site.BaseURL }}" >
       &copy; {{ now.Format "2006" }} {{ .Site.Title }}
     </a> is part of the g0vnyc project.
   </p>
