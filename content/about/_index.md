@@ -3,6 +3,7 @@ title: "About"
 description: "About description"
 hero: "Talk to NYC is multi-technology media platform"
 hero_byline: Attached to project g0vNYC which is working to introduce tools and techniques to forge a stronger connection between NYC citizens and city decision makers.
+featured_image: img/hero-about-city-planning.JPG
 ---
 
 # Project Background
