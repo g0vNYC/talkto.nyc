@@ -1,0 +1,26 @@
+{{ define "header" }}{{ partial "page-header.html" . }}{{ end }}
+{{ define "main" }}
+  <div class="flex-l mt2 center">
+    <article class="center cf pv5 ph3 ph4-ns mw7">
+      <header>
+        <p class="f6 b helvetica tracked">
+          {{ humanize .Section | upper  }}
+        </p>
+        <h1 class="f1">
+          {{ .Title }}
+        </h1>
+      </header>
+      <div class="nested-copy-line-height lh-copy f4 nested-links nested-img mid-gray">
+        {{ .Content }}
+      </div>
+    </article>
+    <aside class="mt2 ph3 pt2 pt6-ns bg-light-gray w-40">
+      {{ partial "menu-contextual.html" . }}
+
+      <div class="measure pa3 pl5 bt b--near-white">
+        <h3>Feature your survey</h3>
+        <p class="f4 lh-copy">Send the link to hi[at]talkto.nyc and we will feature your survey and results on talkto.nyc. This will help other people benefit from the work you have done!
+      </div>
+    </aside>
+  </div>
+{{ end }}
