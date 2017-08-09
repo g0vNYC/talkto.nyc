@@ -41,9 +41,10 @@ Make sure that all other boxes are unchecked.
 
 Now go to the 'Share and Embed' section. Copy the link provided to share with potential survey takers
 
+## Step 8
 
-----
+Send the link to [Talk to NYC](mailto:hi@talkto.nyc) we will feature your survey and results on [talkto.nyc](/). This will help other people benefit from the work you have done!
 
-Don't forget to also send the link to hi[at]talkto.nyc, will feature your survey and results on talkto.nyc. This will help other people benefit from the work you have done! We will also help you trouble shoot.
+We can also help you trouble shoot at anytime.
 
 You are now all set to start collecting data!!
