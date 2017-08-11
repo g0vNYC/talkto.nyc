@@ -23,3 +23,26 @@ a {
   font-weight: 500;
   line-height: 1.5;
 }
+
+.site-logo {
+  position: absolute;
+  top: 0.5rem;
+  right: 0.5rem;
+  width: 13rem;
+  height: 11rem;
+  z-index: 10;
+  border-radius: 10px;
+}
+
+.site-logo-container {
+  position: absolute;
+  width: 81%;
+  height: 100%;
+  top: 0;
+  right: 0;
+}
+
+.overview-icon {
+  width: 5rem;
+  height: 5rem;
+}
