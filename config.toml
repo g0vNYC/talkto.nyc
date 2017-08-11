@@ -1,4 +1,4 @@
-baseURL = "http://concerned-smoke.surge.sh"
+baseURL = "http://talkto.nyc"
 languageCode = "en-us"
 title = "Talk to NYC"
 theme = "gohugo-theme-ananke"
