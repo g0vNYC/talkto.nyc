@@ -18,7 +18,7 @@ Talk to NYC serves as a channel for accomplishing the following:
 
 ## Our long-term goal is to build a viable city governance system.
 
-g0vNYC is a test for set up self regulating viable systems, capable of incorporating feedback.  We define 'viable system' based on cybernetic management science, pioneered by Stafford Beer. A viable system is one that deals effectively with variety. For example: In order to function an administration needs to deal with citizen variety. For this to be achieved in a regulated manner, there needs to be a balance between the top-down and bottom-up processes. This balance is what
+g0vNYC is a test for set up self regulating viable systems, capable of incorporating feedback.  We define 'viable system' based on cybernetic management science, pioneered by Stafford Beer. A viable system is one that deals effectively with variety. For example: In order to function an administration needs to deal with citizen variety. For this to be achieved in a regulated manner, there needs to be a balance between the top-down and bottom-up processes. This balance is what g0vNYC is working on setting up.
 
 
 ## Team
