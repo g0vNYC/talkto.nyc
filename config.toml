@@ -29,12 +29,12 @@ enableRobotsTXT = true
 # Primary menu displays in header
 [[menu.primary]]
     name = "Take a Survey"
-    weight = 1
+    weight = 6
     identifier = "take"
     url = "/learn/take-survey"
 [[menu.primary]]
     name = "Make a Survey"
-    weight = 2
+    weight = 5
     identifier = "make"
     url = "/learn/make-survey"
 [[menu.primary]]
@@ -47,12 +47,6 @@ enableRobotsTXT = true
     weight = 3
     identifier = "results"
     url = "/results/"
-[[menu.primary]]
-    name = "About"
-    weight = 4
-    identifier = "about"
-    url = "/about/"
-
 
 # Learn menu in the footer
 [[menu.learn]]
