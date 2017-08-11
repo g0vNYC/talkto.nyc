@@ -20,3 +20,6 @@ By registering as a pol.is user, you agree that
 
 We will edit or remove content that, in our judgment, violates any of these Guidelines. You could be banned from using the site if you do not follow the Guidelines or if, in our judgment, you violate someone else’s rights in any other way.
 
+---
+
+Talk to NYC site guidelines have been structured based on the guidelines of [Cornell Regulation Room](http://regulationroom.org/terms)

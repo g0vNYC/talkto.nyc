@@ -22,3 +22,6 @@ Votes and comments that you make on the pol.is survey are public information. Th
 
 Please also read [Pol.is privacy agreement](https://pol.is/privacy).
 
+----
+
+Talk to NYC Privacy Policies have been structured based on the policies of [Cornell Regulation Room](http://regulationroom.org/terms).
