@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Learns on Talk to NYC</title>
+    <link>http://talkto.nyc/learn/</link>
+    <description>Recent content in Learns on Talk to NYC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://talkto.nyc/learn/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How do I fill out a survey</title>
+      <link>http://talkto.nyc/learn/take-survey/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://talkto.nyc/learn/take-survey/</guid>
+      <description>Step 1 Access the survey on web or mobile via the survey link.
+Step 2 For each comment you can vote to agree/disagree/pass. Remember, you are being asked for your personal opinion, your personal experience is what counts here.
+If you feel your perspective isn&amp;rsquo;t already represented Add your own comment in the &amp;lsquo;Share your perspective&amp;rsquo; space at the bottom of the page.
+What makes an effective comment? The most effective comments include an expression of what you feel and why you feel it.</description>
+    </item>
+    
+    <item>
+      <title>How do I make a survey</title>
+      <link>http://talkto.nyc/learn/make-survey/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://talkto.nyc/learn/make-survey/</guid>
+      <description>Step 1 Create a free account. If you have more than one team member or collaborator, you will need to share the account.
+Whoops! Mistakes happen. If you see &amp;lsquo;bad request&amp;rsquo; while creating an account, please choose a longer password.
+Step 2 Select the New option on the left hand-side of the page or the Start a conversation option to get started creating your survey.
+Step 3 Go to the &amp;lsquo;Configure&amp;rsquo; section</description>
+    </item>
+    
+    <item>
+      <title>How do I understand the results?</title>
+      <link>http://talkto.nyc/learn/interpret-results/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://talkto.nyc/learn/interpret-results/</guid>
+      <description>Pol.is calculations are made automatically and visualized as you vote and submit comments. As you vote, you will move closer to people who have voted like you did. Once you finish voting, you can explore where you fell relative to everyone else. You can explore opinions by groups, in this way minority opinions are not lost. You can also see the majority opinion.
+To learn more about interpreting your Pol.</description>
+    </item>
+    
+    <item>
+      <title>What is Pol.is?</title>
+      <link>http://talkto.nyc/learn/polis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://talkto.nyc/learn/polis/</guid>
+      <description>Pol.is is an AI powered surveying tool that has been used to great success in countries like Taiwan and Denmark. It is easy to use and can obtain the sorts of rich, organic data that is usually obtained through community forums or interviews.
+On Pol.is, you can vote to agree/disagree/pass on comments or enter their own comments. Machine intelligence, in this case unsupervised learning in the form of PCA and then K-means, produces opinion groups.</description>
+    </item>
+    
+  </channel>
+</rss>

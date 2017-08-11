@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Surveys on Talk to NYC</title>
+    <link>http://talkto.nyc/survey/</link>
+    <description>Recent content in Surveys on Talk to NYC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://talkto.nyc/survey/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>District 13 Candidate Forum</title>
+      <link>http://talkto.nyc/survey/district-13-candidate-forum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://talkto.nyc/survey/district-13-candidate-forum/</guid>
+      <description>[list of surveys]</description>
+    </item>
+    
+    <item>
+      <title>District 18 Candidate Forum</title>
+      <link>http://talkto.nyc/survey/district-18-candidate-forum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://talkto.nyc/survey/district-18-candidate-forum/</guid>
+      <description>[list of surveys]</description>
+    </item>
+    
+    <item>
+      <title>District 2 Candidate Forum</title>
+      <link>http://talkto.nyc/survey/district-2-candidate-forum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://talkto.nyc/survey/district-2-candidate-forum/</guid>
+      <description>[list of surveys]</description>
+    </item>
+    
+    <item>
+      <title>District 21 Candidate Forum</title>
+      <link>http://talkto.nyc/survey/district-21-candidate-forum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://talkto.nyc/survey/district-21-candidate-forum/</guid>
+      <description>[list of surveys]</description>
+    </item>
+    
+    <item>
+      <title>District 4 Candidate Forum</title>
+      <link>http://talkto.nyc/survey/district-4-candidate-forum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://talkto.nyc/survey/district-4-candidate-forum/</guid>
+      <description>[list of surveys]</description>
+    </item>
+    
+    <item>
+      <title>District 41 Candidate Forum</title>
+      <link>http://talkto.nyc/survey/district-41-candidate-forum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://talkto.nyc/survey/district-41-candidate-forum/</guid>
+      <description>[list of surveys]</description>
+    </item>
+    
+    <item>
+      <title>District 43 Candidate Forum</title>
+      <link>http://talkto.nyc/survey/district-43-candidate-forum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://talkto.nyc/survey/district-43-candidate-forum/</guid>
+      <description>[list of surveys]</description>
+    </item>
+    
+    <item>
+      <title>District 8 Candidate Forum</title>
+      <link>http://talkto.nyc/survey/district-8-candidate-forum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://talkto.nyc/survey/district-8-candidate-forum/</guid>
+      <description>[list of surveys]</description>
+    </item>
+    
+  </channel>
+</rss>
