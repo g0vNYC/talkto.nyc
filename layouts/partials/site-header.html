@@ -17,14 +17,15 @@
         {{ end }}
       </div>
 
+      {{/* Only display overview on the homepage */}}
       {{ if eq (relURL .URL) ("/" | safeHTML) }}
         <section class="cf mb4 ph3 ph4-ns">
           <ul class="list pa0 ma0 flex flex-wrap-m mw9">
             {{ range .Site.Data.HomeOverview.Overview }}
-              {{ $icon := .Icon }}
+              {{ $icon_size := "32px" }}
               <li class="white-90 flex pv4 w-50-ns">
                 <div class="overview-icon mb1 ml1">
-                  <img src="{{ $icon }}">
+                  {{ partial .Icon }}
                 </div>
                 <p class="tl measure-narrow ph3">{{ .Text }}</p>
               </li>
