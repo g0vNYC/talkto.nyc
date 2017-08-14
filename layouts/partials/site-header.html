@@ -20,10 +20,10 @@
       {{/* Only display overview on the homepage */}}
       {{ if eq (relURL .URL) ("/" | safeHTML) }}
         <section class="cf mb4 ph3 ph4-ns">
-          <ul class="list pa0 ma0 flex flex-wrap-m mw9">
+          <ul class="flex flex-column flex-row-ns flex-wrap-m mw9 list pa0 ma0">
             {{ range .Site.Data.HomeOverview.Overview }}
               {{ $icon_size := "32px" }}
-              <li class="white-90 flex pv4 w-50-ns">
+              <li class="white-90 flex pv2 pv3-m pv4-l w-50-ns">
                 <div class="overview-icon mb1 ml1">
                   {{ partial .Icon }}
                 </div>
