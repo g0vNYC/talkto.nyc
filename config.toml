@@ -78,7 +78,11 @@ enableRobotsTXT = true
     identifier = "learn-take"
     url = "/survey"
 
-
+[[menu.privacy]]
+    name = "Team"
+    weight = 3
+    identifier = "about"
+    url = "/about/"
 [[menu.privacy]]
     name = "Privacy"
     weight = 4
