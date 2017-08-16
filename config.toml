@@ -31,7 +31,7 @@ enableRobotsTXT = true
     name = "Take a Survey"
     weight = 6
     identifier = "take"
-    url = "/learn/take-survey"
+    url = "/survey"
 [[menu.primary]]
     name = "Make a Survey"
     weight = 5
@@ -50,7 +50,12 @@ enableRobotsTXT = true
 
 # Learn menu in the footer
 [[menu.learn]]
-    name = "How to interpret results?"
+    name = "How do I take a survey?"
+    weight = 1
+    identifier = "take-survey"
+    url = "/learn/take-survey"
+[[menu.learn]]
+    name = "How do I interpret results?"
     weight = 2
     identifier = "learn-results"
     url = "/learn/interpret-results"
@@ -65,18 +70,14 @@ enableRobotsTXT = true
 [[menu.survey]]
     name = "Take"
     weight = 1
-    identifier = "learn-results"
+    identifier = "take-survey"
     url = "/survey"
 [[menu.survey]]
     name = "Make"
     weight = 2
-    identifier = "learn-polis"
+    identifier = "make-survey"
     url = "/learn/make-survey"
-[[menu.survey]]
-    name = "Candidate Forums"
-    weight = 3
-    identifier = "learn-take"
-    url = "/survey"
+
 
 [[menu.privacy]]
     name = "Team"
