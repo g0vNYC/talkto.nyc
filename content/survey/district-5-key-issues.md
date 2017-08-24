@@ -8,7 +8,7 @@ As NYC gets ready for city elections this fall, it is important that council can
 
 This survey matters to you if you 
 1. live in NYC District 5 
-2. work in NYC District 5
+2. work in NYC District 5, and/or
 3. are a NYC District 5 council candidate 
 
 By taking this survey 
