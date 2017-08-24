@@ -10,8 +10,10 @@
           {{ .Title }}
         </h1>
       </header>
-      <div class="nested-copy-line-height lh-copy f4 nested-links nested-img mid-gray">
-        {{ .Content }}
+      <div class="nested-copy-line-height lh-copy f5 nested-links nested-img mid-gray">
+        <div class="mw6">
+          {{ .Content }}
+        </div>
         {{ partial "polis-embed.html" . .Params.polis_id }}
       </div>
     </article>
