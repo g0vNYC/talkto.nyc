@@ -1,6 +1,6 @@
 ---
 title: "District 4 Candidate Forum"
-description: "City organizations are putting together nonpartisan forums in which candidates can address the issues that matter to community members. This survey is designed to inform candidates of NYC Council District 4 of the issues that matter to District 4 community members."
+description: "NYC organizations are putting together nonpartisan forums in which candidates can address the issues that matter to community members. This survey is designed to inform candidates of NYC Council District 4 of the issues that matter to District 4 community members."
 polis_id: 5saucnww9k
 ---
 As NYC gets ready for city elections this fall, city organizations are putting together nonpartisan forums in which candidates can address the issues that matter to community members. This survey is designed to inform candidates of NYC Council District 4 of the issues that matter to District 4 community members.
