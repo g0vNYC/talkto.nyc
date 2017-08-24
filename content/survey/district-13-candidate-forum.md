@@ -7,20 +7,13 @@ As NYC gets ready for city elections this fall, city organizations are putting t
 
 This survey matters to you if you
 
-(1) live in NYC District 13 
-
-(2) work in NYC District 13
-
-AND/OR
-
-(3) are a NYC District 13 council candidate 
+1. live in NYC District 13
+1. work in NYC District 13, and/or
+1. are a NYC District 13 council candidate 
 
 By taking this survey you can
 
-(1) share your opinions and experiences with your candidates and community 
-
-AND
-
-(2) learn what your community is thinking and feeling
+1. share your opinions and experiences with your candidates and community
+1. learn what your community is thinking and feeling
 
 Citizens and district officials both have a stake in effective, responsible governance practices. Don't be a bystander — contribute your opinions in a meaningful way. Share what you know and encourage family, friends and coworkers to do the same.
