@@ -8,7 +8,7 @@ As NYC gets ready for city elections this fall, city organizations are putting t
 
 This survey matters to you if you 
 1. live in NYC District 43 
-2. work in NYC District 43
+2. work in NYC District 43, and/or
 3. are a NYC District 43 council candidate 
 
 By taking this survey 
