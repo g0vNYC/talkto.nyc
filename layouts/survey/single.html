@@ -11,10 +11,10 @@
         </h1>
       </header>
       <div class="nested-copy-line-height lh-copy f5 nested-links nested-img mid-gray">
+        {{ partial "polis-embed.html" . .Params.polis_id }}
         <div class="mw6">
           {{ .Content }}
         </div>
-        {{ partial "polis-embed.html" . .Params.polis_id }}
       </div>
     </article>
     <aside class="mt2 ph3 pt2 pt6-ns bg-light-gray w-30">
