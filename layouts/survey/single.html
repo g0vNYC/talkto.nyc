@@ -1,14 +1,17 @@
 {{ define "header" }}{{ partial "site-navigation.html" . }}{{ end }}
 {{ define "main" }}
   <div class="flex-l mt2 center">
-    <article class="center cf pv5 ph4-ns mw9 w-100">
-      <header>
+    <article class="center cf pv5 ph3 ph4-ns mw9 w-100">
+      <header class="mb5 mb6-l">
         <p class="f6 b helvetica tracked">
           {{ humanize .Section | upper  }}
         </p>
-        <h1 class="f1">
+        <h1 class="f1 mb1">
           {{ .Title }}
         </h1>
+        <h2 class="f4 normal">
+          <em>Created by {{ .Params.created_by }}</em>
+        </h2>
       </header>
       <div class="nested-copy-line-height lh-copy f5 nested-links nested-img mid-gray">
         {{ partial "polis-embed.html" . .Params.polis_id }}
