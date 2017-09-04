@@ -8,7 +8,7 @@ hero: "Create a pol.is survey in a few easy steps and learn what your community 
 
 [Create a free account](https://pol.is/createuser). If you have more than one team member or collaborator, you will need to share the account.
 
-_Whoops! Mistakes happen. If you see 'bad request' while creating an account, please choose a longer password._
+_If you see 'Bad Request' while creating an account, please choose a longer password._
 
 ## Step 2
 
